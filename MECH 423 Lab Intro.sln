@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MECH 423 Lab Intro", "MECH 423 Lab Intro\MECH 423 Lab Intro.csproj", "{F62D3FEB-103D-4D38-86BF-5FF0334F83A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F62D3FEB-103D-4D38-86BF-5FF0334F83A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62D3FEB-103D-4D38-86BF-5FF0334F83A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62D3FEB-103D-4D38-86BF-5FF0334F83A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62D3FEB-103D-4D38-86BF-5FF0334F83A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE00494A-7BA3-4A63-992A-892048C50A26}
+	EndGlobalSection
+EndGlobal
